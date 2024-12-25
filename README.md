@@ -16,3 +16,25 @@ This document contains a list of memory offsets extracted from the decompressed 
 
 - **kalloc_heap_init**: `0x848830C`
 - **kalloc_zone_init**: `0x148A310`
+
+### TODO
+- zalloc
+- zalloc_flags
+- zfree
+- kmem_alloc
+- kmem_free
+- kalloc_external
+- kfree_external
+- pmap_enter
+- pmap_remove
+- ml_static_malloc
+- ml_static_free
+- pmap_image4_validate
+- ptrauth_strip
+- ptrauth_sign
+- kernel_task
+- vm_map_enter
+- vm_map_remove
+- bzero
+- memcpy
+- memmov
